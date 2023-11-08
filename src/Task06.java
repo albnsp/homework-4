@@ -11,5 +11,6 @@ public class Task06 {
         N &= mask; // обнуляем все биты, кроме i-го
 
         System.out.println(Integer.toBinaryString(N));
+
     }
 }
